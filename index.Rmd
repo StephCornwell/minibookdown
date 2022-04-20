@@ -1,10 +1,9 @@
 ---
-title: "Sparked to life"
-author: "Ron and Russell Mael"
+title: "Investigating the Body in the Victorian Asylum"
+author: "Jennifer Wallis"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# So May We Start
-
+# Doctors, Patients, and Practices
